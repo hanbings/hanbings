@@ -14,7 +14,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbings&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
 
 ## ✨ 很高兴认识你！
-这里是寒冰，是 Furry，喜欢猫、麒麟和龙的男生，会写点代码，玩玩 Mineceaft，总之很高兴认识你！多多指教！
+这里是寒冰，是 Furry，喜欢猫、麒麟和龙的男生，会写点代码，玩玩 MineCraft，总之很高兴认识你！多多指教！
 `0x105F49F93B140772` `0xE5DEA3357DB4CF3C`
 
 # 

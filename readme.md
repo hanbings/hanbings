@@ -12,18 +12,16 @@
 ## 🐱 Nice to meet you!
 
 这里是寒冰，是 Furry，喜欢猫、麒麟和龙的男生，会写点代码，玩玩 Minecraft，总之很高兴认识你！多多指教！
-
 I am hanbings, a cat exploring the world of computer science.
 
-
-## ✨ GPG Public Key
-`0x105F49F93B140772` 
-`0xE5DEA3357DB4CF3C`
-
-## ⚡ Powerful
-
-Java Typescript and Rust.
+**Java / Typescript / Rust**
 
 对 Web 与云计算基础设施、数据库原理和操作系统都很感兴趣。持续探索中！
-
 Interested in web and cloud computing infrastructure, database principles, and operating systems. So I'm learning more!
+
+```shell
+# GPG Key
+0x105F49F93B140772 
+0xE5DEA3357DB4CF3C
+```
+

@@ -23,14 +23,20 @@ Interested in web and cloud computing infrastructure, database principles, and o
 
 **Exploring**
 
-[canicula](https://github.com/hanbings/canicula): Learning and write an operating system based on RISC-V architecture, reference: [rCore](https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html) and [2024S](https://learningos.cn/rCore-Tutorial-Guide-2024S).
+- Currently participating in [GSoC 2024](https://summerofcode.withgoogle.com/programs/2024/projects/Rv3xx9w2) and working on improving [uutils/findutils](https://github.com/uutils/findutils)
+- [canicula](https://github.com/hanbings/canicula): Learning and write an operating system based on RISC-V architecture, reference: [rCore](https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html) and [2024S](https://learningos.cn/rCore-Tutorial-Guide-2024S).
+- [nikukyu](https://github.com/hanbings/nikukyu): Security, single sign-on, and OAuth protocols.
+- [Effective Rust](https://www.lurklurk.org/effective-rust/): I would like to know more about Rust and I am reading this book.
 
-[nikukyu](https://github.com/hanbings/nikukyu): Security, single sign-on, and OAuth protocols.
-
-[Effective Rust](https://www.lurklurk.org/effective-rust/): I would like to know more about Rust and I am reading this book.
+**GPG Key**
 
 ```shell
-# GPG Key
+# Current
+0x222edb51eafaff52
+0x8c5185eb9ec8bf30a79370d6222edb51eafaff52
+# The commit signing ID displayed by Github
+0xaa9cb43124987769
+# Expired / Deprecated
 0x105F49F93B140772 
 0xE5DEA3357DB4CF3C
 ```

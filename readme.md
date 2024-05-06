@@ -21,6 +21,14 @@ I am hanbings, a cat exploring the world of computer science.
 
 Interested in web and cloud computing infrastructure, database principles, and operating systems. So I'm learning more!
 
+**Exploring**
+
+[canicula](https://github.com/hanbings/canicula): Learning and write an operating system based on RISC-V architecture, reference: [rCore](https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html) and [2024S](https://learningos.cn/rCore-Tutorial-Guide-2024S).
+
+[nikukyu](https://github.com/hanbings/nikukyu): Security, single sign-on, and OAuth protocols.
+
+[Effective Rust](https://www.lurklurk.org/effective-rust/): I would like to know more about Rust and I am reading this book.
+
 ```shell
 # GPG Key
 0x105F49F93B140772 

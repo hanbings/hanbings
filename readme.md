@@ -28,16 +28,18 @@ Interested in web and cloud computing infrastructure, database principles, and o
 - [nikukyu](https://github.com/hanbings/nikukyu): Security, single sign-on, and OAuth protocols.
 - [Effective Rust](https://www.lurklurk.org/effective-rust/): I would like to know more about Rust and I am reading this book.
 
-**GPG Key**
+**GPG Key ID**
 
 ```shell
 # Current
 0x222edb51eafaff52
 0x8c5185eb9ec8bf30a79370d6222edb51eafaff52
+
 # The commit signing ID displayed by Github
 0xaa9cb43124987769
+
 # Expired / Deprecated
-0x105F49F93B140772 
+0x105F49F93B140772
 0xE5DEA3357DB4CF3C
 ```
 

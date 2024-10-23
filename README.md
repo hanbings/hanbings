@@ -23,11 +23,10 @@ Interested in web and cloud computing infrastructure, database principles, and o
 
 **Exploring**
 
-- Currently participating in [GSoC 2024](https://summerofcode.withgoogle.com/programs/2024/projects/Rv3xx9w2) and working on improving [uutils/findutils](https://github.com/uutils/findutils)
+- [uutils/findutils](https://github.com/uutils/findutils): Participating in the project of [GSoC 2024](https://summerofcode.withgoogle.com/programs/2024/projects/Rv3xx9w2), efforts to refactor findutils using Rust. ([Final Report](https://blog.hanbings.io/events/gsoc-2024-improve-support-of-the-rust-findutils-in-debian/))
 - [ebpfs](https://github.com/linuxkerneltravel/ebpfs): Participating in the project of [GLCC 2023](https://www.gitlink.org.cn/glcc), with the goal of building a platform for storing and retrieving ebpf packages.
 - [canicula](https://github.com/hanbings/canicula): Learning and write an operating system based on x86-64 / AArch64 / RISC-V64GC architecture.
 - [nikukyu](https://github.com/hanbings/nikukyu): Security, single sign-on, and OAuth protocols.
-- [Effective Rust](https://www.lurklurk.org/effective-rust/): I would like to know more about Rust and I am reading this book.
 
 **GPG Key ID**
 

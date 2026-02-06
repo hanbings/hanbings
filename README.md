@@ -23,7 +23,7 @@ Interested in web and cloud computing infrastructure, database principles, and o
 
 **Exploring**
 
-- [rustsbi/arceboot](https://github.com/rustsbi/arceboot): The design and implementation of [arceboot](https://github.com/rustsbi/arceboot) in [OSPP 2025 - ArceBoot 引导程序设计](https://summer-ospp.ac.cn/org/prodetail/256590454).
+- [rustsbi/arceboot](https://github.com/rustsbi/arceboot): The design and implementation of [rustsbi/arceboot](https://github.com/rustsbi/arceboot) in [OSPP 2025 - ArceBoot 引导程序设计](https://summer-ospp.ac.cn/org/prodetail/256590454).
 - [uutils/findutils](https://github.com/uutils/findutils): Participating in the project of [GSoC 2024 - Improve support of the Rust findutils in Debian](https://summerofcode.withgoogle.com/programs/2024/projects/Rv3xx9w2), efforts to refactor findutils using Rust. ([Final Report](https://blog.hanbings.io/events/gsoc-2024-improve-support-of-the-rust-findutils-in-debian/))
 - [ebpfs](https://github.com/linuxkerneltravel/ebpfs): Participating in the project of [GLCC 2023 - eBPF Hub](https://www.gitlink.org.cn/glcc/2023/subjects/detail/818), with the goal of building a platform for storing and retrieving ebpf packages.
 - [canicula](https://github.com/hanbings/canicula): Learning and write an operating system based on x86-64 / AArch64 / RISC-V64GC architecture.

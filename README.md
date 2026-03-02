@@ -44,3 +44,7 @@ Interested in web and cloud computing infrastructure, database principles, and o
 0xE5DEA3357DB4CF3C
 ```
 
+> I am introducing LLM-based AI (agents) into my workflow. 
+> Code submitted by @hanbings-agent is generated using AI, which I call Kais AI (凯撒).
+>
+> All such code is reviewed by a human at minimum.
